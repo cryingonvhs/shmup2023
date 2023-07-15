@@ -353,6 +353,7 @@
 -analyzer:"B:/2022.3.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"B:/2022.3.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/HelloWorld.cs"
+"Assets/Shape.cs"
 "Assets/ShapeSpawner.cs"
 -langversion:9.0
 
