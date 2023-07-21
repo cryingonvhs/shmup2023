@@ -35,16 +35,17 @@ public class Shape : MonoBehaviour
             myRigidbody.AddForce(Vector3.right * forceMagnitude);
 
         }
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.UpArrow))
         {
             myRigidbody.AddForce(Vector3.forward * forceMagnitude);
         }
 
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.DownArrow))
         {
             myRigidbody.AddForce(Vector3.back * forceMagnitude);
         }
-       
+
+        
     
     
     
